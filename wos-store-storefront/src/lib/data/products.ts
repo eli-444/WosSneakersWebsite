@@ -124,7 +124,7 @@ export const listTrendingProducts = async (region: StoreRegion) => {
           },
           headers,
           next,
-          cache: "force-cache",
+          cache: "no-store",
         }
       ),
       8000

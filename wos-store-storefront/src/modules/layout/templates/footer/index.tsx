@@ -115,7 +115,7 @@ export default async function Footer() {
               <ul className="grid grid-cols-1 gap-y-2 text-ui-fg-subtle txt-small">
                 <li>
                   <a
-                    href="https://www.instagram.com/toncompte"
+                    href="https://www.instagram.com/wossneakers?igsh=eTRveHFnaGwwbWow"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-ui-fg-base flex items-center gap-x-2"
@@ -125,22 +125,12 @@ export default async function Footer() {
                 </li>
                 <li>
                   <a
-                    href="https://www.tiktok.com/@toncompte"
+                    href="https://www.tiktok.com/@wossneakers?_r=1&_t=ZN-91WbDLd4ZXS"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-ui-fg-base flex items-center gap-x-2"
                   >
                     <Music2 size={16} /> TikTok
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.facebook.com/toncompte"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="hover:text-ui-fg-base flex items-center gap-x-2"
-                  >
-                    <Facebook size={16} /> Facebook
                   </a>
                 </li>
               </ul>
